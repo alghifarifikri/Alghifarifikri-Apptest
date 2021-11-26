@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Screen should renders \`Contact Screen\` module correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Profile Screen should renders \`Profile Screen\` module correctly 1`] = `ShallowWrapper {}`;
